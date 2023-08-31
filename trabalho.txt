@@ -1,0 +1,1 @@
+Use alguma ferramenta para desenhar os diagramas de classe e de casos de uso de acordo com as informações apresentadas nos slides 03 à 11 da Aula 07 (parte 2). 
